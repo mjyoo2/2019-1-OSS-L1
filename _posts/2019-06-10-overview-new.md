@@ -46,7 +46,7 @@ featured-img: overviewjpg
    <ul>
    <li>issues: 수시로 궁금하고 문제 해결이 필요한 부분을 issue로 올림, 총 10개가 만들어졌고, 4개를 끝마치고, 6개 해결 중..</li> 
     <br>
-      <img src="{{site.url}}/assets/img/posts/issue.jpg" width="400" height="300" style="margin-left:auto;margin-right:auto;display:block" />
+      <img src="/assets/img/posts/issue.jpg" width="400" height="300" style="margin-left:auto;margin-right:auto;display:block" />
     <br>
    <li>Projects: 8개의 project 실시, 3개 마치고, 5개 진행 중..</li>
     <br><div style="display:block;margin: 0 auto">
