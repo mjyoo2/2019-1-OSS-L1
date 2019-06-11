@@ -1,8 +1,7 @@
 ---
-layout: post
-title: "OSS-Team L1"
-summary: Overview of open source projects
-featured-img: overviewjpg
+title: "team introduce"
+date: 2019-6-10 08:26:28 -0400
+categories: team_project
 ---
 
 # Git, Github and Pytest
